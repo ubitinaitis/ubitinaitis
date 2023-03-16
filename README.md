@@ -10,7 +10,7 @@ i'm interested in front-end web development, computer graphics, and VR... occass
 my favorite languages are html/css, java, c++, and python!
 
 - my website: https://www.ulabit.dev/
-- my linkedin: https://www.linkedin.com/in/ula-bitinaitis-3868a7230/
+- my linkedin: https://www.linkedin.com/in/ula-bitinaitis/
 - reach my email at bitinaitis.u@northeastern.edu
 
 thanks for stopping by !!  ☆ヾ(\*´・∀・)ﾉヾ(・∀・`*)ﾉ☆ 
