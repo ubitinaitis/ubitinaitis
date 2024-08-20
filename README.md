@@ -5,8 +5,8 @@
 </a>
 
 i'm ula! (she/her or he/him) 八(＾□＾*)<br>
-i'm a sophomore at northeastern university pursing a combined bachelors degree in computer science and media arts!<br>
-i'm interested in front-end web development, computer graphics, and VR... occassionally, i like working across the stack!<br>
+i'm a senior at northeastern university pursing a combined bachelors degree in computer science and media arts!<br>
+i'm interested in front-end web development, computer graphics, and VR... occassionally, i like working across the stack! right now, im learning data integration engineering! <br>
 my favorite languages are html/css, java, c++, and python!
 
 - my website: https://www.ulabit.dev/
